@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "Jobseeckers",
-    "slug": "Jobseeckers"
+    "slug": "Jobseeckers",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "2e56e9dc-a21a-47be-adb8-b8f65400c078"
+      }
+    },
+    "android": {
+      "package": "com.ritchieridanko.Jobseeckers"
+    }
   }
 }
